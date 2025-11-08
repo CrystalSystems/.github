@@ -6,7 +6,8 @@
 
 The goal of the project is to create a secure, fast and convenient social network using the best technologies.
 
-The project is planned to be implemented in stages, divided into versions with different stacks:<br>
+The project is planned to be implemented in stages, divided into versions with different stacks:
+
 [CRYSTAL v1.0](https://github.com/CrystalSystems/crystal-v1.0) is a version in the MERN stack (MongoDB, Express.js, React, Node.js), which has basic social network functions.<br>
 This version can be deployed and tested on
 [local PC](https://shedov.top/instructions-for-deploying-crystal-v1-0-on-a-local-pc/) or on [VPC](https://shedov.top/instructions-for-deploying-crystal-v1-0-on-vpc-and-setting-up-access-to-the-website-via-public-ip/), following the relevant
