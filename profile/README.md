@@ -5,7 +5,8 @@
 # [CRYSTAL](https://crysty.ru/) is an open source social network currently under development.
 
 ### The goal of the project is to create a secure, fast and convenient social network using the best technologies.
-### The project is planned to be implemented in stages, divided into versions with different stacks:
+
+The project is planned to be implemented in stages, divided into versions with different stacks:
 
 [CRYSTAL v1.0](https://github.com/CrystalSystems/crystal-v1.0) is a version in the MERN stack (MongoDB, Express.js, React, Node.js), which has basic social network functions.<br>
 This version can be deployed and tested on
