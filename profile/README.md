@@ -17,7 +17,8 @@ instructions from [documentation](https://shedov.top/documentation-crystal-v1-0/
 target="_blank" rel="noopener" aria-label="link to crystal v1.0"> 
 CRYSTAL v2.0</a> is an improved version of CRYSTAL v1.0, which has a number of significant improvements and additional functions. <a href="https://shedov.top/description-and-capabilities-of-crystal-v2-0/" 
 target="_blank" rel="noopener">More about</a> CRYSTAL v2.0.</p>
-<p style="margin-top: 4px;"><span style="color: #1055ae;">CRYSTAL v3.0</span> is under development. This version uses a new technology stack — SALR (ScyllaDB, Actix Web, Leptos, Rust) to ensure maximum performance and reliability at all levels. Starting from this version, it is planned to gradually add new functions: private messages with encryption, comments, photo/video albums, etc. <a href="https://shedov.top/description-and-capabilities-of-crystal-v3-0/" 
+
+**CRYSTAL v3.0** is under development. This version uses a new technology stack — SALR (ScyllaDB, Actix Web, Leptos, Rust) to ensure maximum performance and reliability at all levels. Starting from this version, it is planned to gradually add new functions: private messages with encryption, comments, photo/video albums, etc. <a href="https://shedov.top/description-and-capabilities-of-crystal-v3-0/" 
 target="_blank" rel="noopener">More about</a> CRYSTAL v3.0.</p>
 
 <h3 align="center">CRYSTAL is tested on</h3>
