@@ -11,13 +11,11 @@ The project is planned to be implemented in stages, divided into versions with d
 [CRYSTAL v1.0](https://github.com/CrystalSystems/crystal-v1.0) is a version in the MERN stack (MongoDB, Express.js, React, Node.js), which has basic social network functions.<br>
 This version can be deployed and tested on
 [local PC](https://shedov.top/instructions-for-deploying-crystal-v1-0-on-a-local-pc/) or on [VPC](https://shedov.top/instructions-for-deploying-crystal-v1-0-on-vpc-and-setting-up-access-to-the-website-via-public-ip/), following the relevant
-instructions from [documentation](https://shedov.top/documentation-crystal-v1-0/).<br>
-[More about](https://shedov.top/description-and-capabilities-of-crystal-v1-0/) CRYSTAL v1.0.
+instructions from [documentation](https://shedov.top/documentation-crystal-v1-0/). [More about](https://shedov.top/description-and-capabilities-of-crystal-v1-0/) CRYSTAL v1.0.
 
 [CRYSTAL v2.0](https://github.com/CrystalSystems/crystal-v2.0) is an improved version of CRYSTAL v1.0, which has a number of significant improvements and additional functions.<br>
 This version can be deployed and tested on a
-[local PC or VPC](https://shedov.top/instructions-for-deploying-crystal-v2-0-on-a-local-pc-and-vpc/).<br>
-[More about](https://shedov.top/description-and-capabilities-of-crystal-v2-0/) CRYSTAL v2.0.
+[local PC or VPC](https://shedov.top/instructions-for-deploying-crystal-v2-0-on-a-local-pc-and-vpc/). [More about](https://shedov.top/description-and-capabilities-of-crystal-v2-0/) CRYSTAL v2.0.
 
 **CRYSTAL v3.0** is under development. This version uses a new technology stack — SALR (ScyllaDB, Actix Web, Leptos, Rust) to ensure maximum performance and reliability at all levels. Starting from this version, it is planned to gradually add new functions: private messages with encryption, comments, photo/video albums, etc. <a href="https://shedov.top/description-and-capabilities-of-crystal-v3-0/" 
 target="_blank" rel="noopener">More about</a> CRYSTAL v3.0.</p>
