@@ -10,7 +10,7 @@ The project is planned to be implemented in stages, divided into versions with d
 
 [CRYSTAL v1.0](https://github.com/CrystalSystems/crystal-v1.0) is a version in the MERN stack (MongoDB, Express.js, React, Node.js), which has basic social network functions.<br>
 This version can be deployed and tested on
-[local PC](https://shedov.top/instructions-for-deploying-crystal-v1-0-on-a-local-pc/) or on [VPC](https://shedov.top/instructions-for-deploying-crystal-v1-0-on-vpc-and-setting-up-access-to-the-website-via-public-ip/), following the relevant
+[local PC](https://shedov.top/instructions-for-deploying-crystal-v1-0-on-a-local-pc/) or [VPC](https://shedov.top/instructions-for-deploying-crystal-v1-0-on-vpc-and-setting-up-access-to-the-website-via-public-ip/), following the relevant
 instructions from [documentation](https://shedov.top/documentation-crystal-v1-0/). [More about](https://shedov.top/description-and-capabilities-of-crystal-v1-0/) CRYSTAL v1.0.
 
 [CRYSTAL v2.0](https://github.com/CrystalSystems/crystal-v2.0) is an improved version of CRYSTAL v1.0, which has a number of significant improvements and additional functions.<br>
