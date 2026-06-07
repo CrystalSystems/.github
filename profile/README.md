@@ -20,6 +20,12 @@ This version can be deployed and tested on a
 **CRYSTAL v3.0** is under development. This version uses a new technology stack — **LARS** (Leptos, Actix Web, Rust, ScyllaDB) to ensure maximum performance and reliability at all levels. Starting from this version, it is planned to gradually add new functions: private messages with encryption, comments, photo/video albums, etc. <a href="https://shedov.top/description-and-capabilities-of-crystal-v3-0/" 
 target="_blank" rel="noopener">More about</a> CRYSTAL v3.0.</p>
 
+**FAQ:**<br>
+**Why are there three separate repositories for different versions?**
+- The current versions were created for demonstration purposes and to make the documentation easier to follow. In the future, there will be no separate detailed repositories for each version, as they will be managed via GitHub Releases, and a single main repository named **crystal** will be created.
+
+<br>
+
 <h3 align="center">CRYSTAL is tested on</h3>
 <p align="center">
   <a href="https://www.browserstack.com/">
