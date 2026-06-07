@@ -21,8 +21,8 @@ This version can be deployed and tested on a
 target="_blank" rel="noopener">More about</a> CRYSTAL v3.0.</p>
 
 **FAQ:**<br>
-**Why are there three separate repositories for different versions?**
-- The current versions were created for demonstration purposes and to make the documentation easier to follow. In the future, there will be no separate detailed repositories for each version, as they will be managed via GitHub Releases, and a single main repository named **crystal** will be created.
+**Why are there three separate repositories for different versions?**<br>
+The current versions were created for demonstration purposes and to make the documentation easier to follow. In the future, there will be no separate detailed repositories for each version, as they will be managed via GitHub Releases, and a single main repository named **crystal** will be created.
 
 <br>
 
