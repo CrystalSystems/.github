@@ -21,8 +21,13 @@ This version can be deployed and tested on a
 target="_blank" rel="noopener">More about</a> CRYSTAL v3.0.</p>
 
 **FAQ:**<br>
+---
+**Is this made with AI?**<br>
+- CRYSTAL v1.0 is **100% pure code** written by me.<br>
+- CRYSTAL v2.0 is approximately **80% pure code**, and the remaining 20%, which was AI-assisted, has been thoroughly reviewed and refined.<br>
+
 **Why are there three separate repositories for different versions?**<br>
-The current versions were created for demonstration purposes and to make the documentation easier to follow. In the future, there will be no separate detailed repositories for each version, as they will be managed via GitHub Releases, and a single main repository named **crystal** will be created.
+- The current versions were created for demonstration purposes and to make the documentation easier to follow. In the future, there will be no separate detailed repositories for each version, as they will be managed via GitHub Releases, and a single main repository named **crystal** will be created.
 
 
 
