@@ -30,13 +30,15 @@ target="_blank" rel="noopener">More about</a> CRYSTAL v3.0.</p>
 - The current versions were created for demonstration purposes and to make the documentation easier to follow. In the future, there will be no separate detailed repositories for each version, as they will be managed via GitHub Releases, and a single main repository named **crystal** will be created.
 
 
-
+<br>
 <h3 align="center">CRYSTAL is tested on</h3>
 <p align="center">
   <a href="https://www.browserstack.com/">
     <img src="https://raw.githubusercontent.com/CrystalSystems/crystal-v1.0/b753d0d08a3630720d92dc139ee6255f0375cad3/assets/browserstack_logo.svg" width="290" />
   </a>
 </p>
+<br>
+<br>
 
 [![SHEDOV.TOP](https://img.shields.io/badge/SHEDOV.TOP-black?style=for-the-badge)](https://shedov.top/) 
 [![CRYSTAL](https://img.shields.io/badge/CRYSTAL-black?style=for-the-badge)](https://crystal.you/AndrewShedov)
