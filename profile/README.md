@@ -20,6 +20,8 @@ This version can be deployed and tested on a
 **CRYSTAL v3.0** is under development. At this time, various technology stacks are being considered for this version. Starting from this version, it is planned to gradually add new functions: private messages with encryption, comments, photo/video albums, etc. <a href="https://shedov.top/description-and-capabilities-of-crystal-v3-0/" 
 target="_blank" rel="noopener">More about</a> CRYSTAL v3.0.</p>
 
+I create a lot of [experimental prototypes](https://github.com/CrystalSystems/prototypes) for testing various technologies prior to integration into the core CRYSTAL system.
+
 **FAQ:**<br>
 ---
 **Is this made with AI?**<br>
