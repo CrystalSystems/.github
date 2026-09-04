@@ -25,7 +25,7 @@ I develop a lot of [experimental prototypes](https://github.com/CrystalSystems/p
 **FAQ:**<br>
 ---
 **Is this made with AI?**<br>
-- CRYSTAL v1.0 is **100% pure code** written by me.<br>
+- CRYSTAL v1.0 is **100% pure code** written by [me](https://github.com/orgs/CrystalSystems/people/AndrewShedov).<br>
 - CRYSTAL v2.0 is approximately **80% pure code**, and the remaining 20%, which was AI-assisted, has been thoroughly reviewed and refined.<br>
 
 **Why are there three separate repositories for different versions?**<br>
