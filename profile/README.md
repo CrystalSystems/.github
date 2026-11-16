@@ -26,7 +26,7 @@ I develop a lot of experimental [prototypes](https://github.com/CrystalSystems/p
 **FAQ:**<br>
 ---
 **Is this made with AI?**<br>
-- **CRYSTAL v3.0 (2026 – Present)** — most of the code is written with the help of high-end models from the **Gemini AI family**, with a strong focus on security and resilience against cyberattacks.
+- **CRYSTAL v3.0 (2026 – Present)** — most of the code is written with the help of **high-end models** from the **Gemini AI family**, with a strong focus on security and resilience against cyberattacks.
 
 - **CRYSTAL v2.0 (2025 – 2026)** is approximately **80% pure code**, and the remaining 20%, which was AI-assisted, has been thoroughly reviewed and refined.
 
